@@ -2,7 +2,6 @@ import express from "express";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import cors from "cors";
-import Product from "./model/product.js";
 const multer = require("multer");
 
 dotenv.config();
