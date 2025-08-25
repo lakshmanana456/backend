@@ -9,9 +9,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cloudinary": "^2.7.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",
+    "mongoose": "^8.18.0",
     "multer": "^2.0.2",
     "path": "^0.12.7",
     "router": "^2.2.0",
